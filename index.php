@@ -1,3 +1,3 @@
 <?php
-echo "Welcome";
+echo "Welcome to papaya beauty and spa";
 ?>
